@@ -33,3 +33,5 @@ git log : 커밋한 것 보여주기
 restore / reset
 restore : 
 reset : 
+
+fork : github 저장소에 
